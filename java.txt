@@ -1,0 +1,24 @@
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Nihar Ranan Panigrahi
+Father's Name: Santosh Panigrahi
+RollNumber: 2021CS123
+Email ID: nihar2012@gmail.com
+Contact Number: 12345667890
+Wants to take: CSE
+Wants to Join in School of Liberal Arts and Sciences
+Wants to be a Hosteller 
+Had chosen: ECE(2, 50, 000)
+Had chosen: Travel(30,000)
+				 Total amount to be paid is 2.9 Lakhs 
+-------------------------------------------FEE RECEIPT---------------------------------------------------------------------------
+Student Name: Nihar Ranan Panigrahi
+Father's Name: Santosh Panigrahi
+RollNumber: 2021CS123
+Email ID: nihar2012@gmail.com
+Contact Number: 12345667890
+Wants to take: ECE
+Wants to Join in School of Liberal Arts and Sciences
+Wants to be a Hosteller 
+Had chosen: ECE(2, 50, 000)
+Had chosen: Travel(30,000)
+				 Total amount to be paid is 2.9 Lakhs 
